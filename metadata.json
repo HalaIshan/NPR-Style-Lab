@@ -1,0 +1,6 @@
+{
+  "name": "NPR Style Lab",
+  "description": "Interactive WebGL 3D demo side-by-side comparison between Smooth Phong shading and stylized, educational toon/cel shading with custom-rendered edge outlines.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
