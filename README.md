@@ -2,7 +2,7 @@
 
 An interactive WebGL demo that renders the same 3D model twice, side by side and under the same light: **smooth Phong shading** on the left, and **toon (cel) shading** – a style of non-photorealistic rendering (NPR) – on the right.
 
-**[▶ Try the live demo](https://npr-style-lab-567315771351.europe-west2.run.app)**
+**[▶ Try the live demo](https://npr-style-lab.ai.studio)**
 
 Made for the **Computer Graphics** course at the University of Haifa (2026) and shared with the class on the course Discord – one of several contributions applying course material, alongside my own Blender experiments with metaballs and materials. This demo was built with Google AI Studio.
 
